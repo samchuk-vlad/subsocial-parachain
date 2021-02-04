@@ -15,6 +15,7 @@ services:
       --port 40335
       --rpc-port 9836
       --no-prometheus
+      --no-telemetry
       --
       --execution wasm
       --chain /rococo.json
